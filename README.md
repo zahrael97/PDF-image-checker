@@ -1,4 +1,9 @@
 # PDF Image Matcher Documentation
+
+
+   <p align="center">
+      <img src="docs/image_pdf.png" alt="logo" width="300" height="300">
+   </p>
 ## Overview
 PDF Image Matcher allows users to extract images from PDF files and compare these images against a provided template image. This tool utilizes OpenCV and PyMuPDF (fitz) libraries to handle image processing and PDF manipulation respectively. It's especially useful for researchers and professionals who need to analyze visual data embedded in PDFs or validate document contents against a specific image.
 
