@@ -34,5 +34,5 @@ Install the required Python libraries using pip:
 
 - pdf_path = 'path/to/your/document.pdf'
 - input_image_path = 'path/to/your/template/image.jpg'
-extracted_images = pdf_image_matcher.extract_images_from_pdf(pdf_path)
-pdf_image_matcher.match_template_with_extracted_images(input_image_path, extracted_images)
+- extracted_images = pdf_image_matcher.extract_images_from_pdf(pdf_path)
+- pdf_image_matcher.match_template_with_extracted_images(input_image_path, extracted_images)
