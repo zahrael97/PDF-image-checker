@@ -10,20 +10,24 @@ PDF Image Matcher allows users to extract images from PDF files and compare thes
 
 ## Installation
 ### Prerequisites
-Python 3.x
-OpenCV
-PyMuPDF (fitz)
-NumPy
-PIL
-IPython (for Jupyter Notebook support)
+
+- Python 3.x
+
+- OpenCV
+
+- PyMuPDF (fitz)
+
+- NumPy
+
+- PIL
+
+- IPython (for Jupyter Notebook support)
+
 ### Setup Instructions
 Ensure Python is installed on your system. You can download it from python.org.
 Install the required Python libraries using pip:
-bash
-pip install opencv-python-headless numpy PyMuPDF Pillow ipython
-## Usage
-Importing the Module
-First, import the module into your Python script or Jupyter notebook:
+### bash
+- pip install opencv-python-headless numpy PyMuPDF Pillow ipython
 
 
 ## Example Usage
